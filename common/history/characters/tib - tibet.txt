@@ -1,4 +1,4 @@
-CHARACTERS = {
+CHARACTERS = { #意识形态、IG、(特别是)特质都是试行，改动可能性较大。
 	c:TIB ?= {
 		create_character = {
 			#阿沛·阿旺晋美 Ngaphod NgagDbang'Jigsmed
