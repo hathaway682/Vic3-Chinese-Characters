@@ -1,7 +1,5 @@
-﻿#使用BPM利益集团注意
-
-CHARACTERS = {
-	c:CHI = {
+﻿CHARACTERS = {
+	c:CHI ?= {
 		create_character = {
 			template = chi_daoguang_template
 		}
@@ -19,11 +17,29 @@ CHARACTERS = {
 			culture = cu:manchu
 			ig_leader = yes
 			interest_group = ig_landowners
-			ideology = ideology_moderate
+			ideology = ideology_traditionalist
 			traits = {
 				reckless
 				expensive_tastes # INCREDIBLY corrupt
 				basic_diplomat
+				basic_political_operator
+			}
+		}
+
+		create_character = {
+			first_name = "Guojia"
+			last_name = "Muzhanga"
+			historical = yes
+			birth_date = 1782.1.1
+			culture = cu:manchu
+			ig_leader = yes
+			interest_group = ig_armed_forces
+			ideology = ideology_royalist
+			traits = {
+				tactful
+				meticulous
+				expensive_tastes # INCREDIBLY corrupt
+				expert_political_operator
 			}
 		}
 
@@ -40,6 +56,7 @@ CHARACTERS = {
 				imperious
 				pious
 				master_bureaucrat
+				experienced_political_operator
 			}
 		}
 
@@ -52,8 +69,9 @@ CHARACTERS = {
 			culture = cu:han
 			ig_leader = yes
 			interest_group = ig_trade_unions
-			ideology = ideology_humanitarian_royalist
+			ideology = ideology_traditionalist
 			traits = {
+				literary
 				reckless
 				pious
 			}
@@ -68,9 +86,10 @@ CHARACTERS = {
 			culture = cu:han
 			ig_leader = yes
 			interest_group = ig_intelligentsia
-			ideology = ideology_royalist
+			ideology = ideology_moderate
 			traits = {
 				meticulous
+				basic_political_operator
 			}
 		}
 
@@ -81,10 +100,13 @@ CHARACTERS = {
 			age = 72 # exact birthday unclear
 			culture = cu:han
 			ig_leader = yes
-			interest_group = ig_industrialists
-			ideology = ideology_traditionalist
+			interest_group = ig_devout
+			ideology = ideology_moderate
 			traits = {
+				erudite
 				meticulous
+				pious
+				experienced_political_operator
 			}
 		}
 
@@ -95,8 +117,8 @@ CHARACTERS = {
 			age = 24 # exact birthday unknown
 			culture = cu:han
 			ig_leader = yes
-			interest_group = ig_rural_folk
-			ideology = ideology_land_reformer
+			interest_group = ig_agrarian_populists
+			ideology = ideology_traditionalist
 			traits = {
 				ambitious
 				firebrand
@@ -104,33 +126,83 @@ CHARACTERS = {
 			}
 		}
 
+		# create_character = {
+		# 	first_name = Yupian
+		# 	last_name = Huang
+		# 	historical = yes
+		# 	age = 52 # age unknown, arbitrarily picking an age instead
+		# 	culture = cu:han
+		# 	ig_leader = yes
+		# 	interest_group = ig_devout
+		# 	ideology = ideology_royalist
+		# 	traits = {
+		# 		persistent
+		# 		pious
+		# 	}
+		# }
+
 		create_character = {
-			first_name = Yupian
-			last_name = Huang
+			first_name = Yuann
+			last_name = Weii
 			historical = yes
-			age = 52 # age unknown, arbitrarily picking an age instead
+			birth_date = 1795.4.23
 			culture = cu:han
 			ig_leader = yes
-			interest_group = ig_devout
-			ideology = ideology_traditionalist
+			interest_group = ig_conservatives
+			ideology = ideology_reformer
 			traits = {
-				persistent
-				pious
+				literary
+				innovative
+				ambitious
+				bigoted
 			}
 		}
 
-	#	create_character = { # CHI, general, stationed someplace
-	#		is_general = yes
-	#		first_name = Yijing
-	#		last_name = Aisin_Gioro
-	#		culture = cu:manchu
-	#		interest_group = ig_landowners
-	#		ideology = ideology_royalist
-	#		birth_date = 1793.6.6 # exact date unknown
-	#		traits = {
-	#			basic_offensive_planner
-	#			expensive_tastes
-	#		}
-	#	}
+		create_character = {
+			first_name = Guifen
+			last_name = Feng
+			historical = yes
+			age = 26
+			culture = cu:han
+			ig_leader = yes
+			interest_group = ig_liberals
+			ideology = ideology_protectionist
+			traits = {
+				literary
+				innovative
+				direct
+			}
+		}
+
+		create_character = {
+			first_name = Woren
+			last_name = Wuqigeli
+			historical = yes
+			age = 31
+			culture = cu:mongol
+			ig_leader = yes
+			interest_group = ig_reactionaries
+			ideology = ideology_traditionalist
+			traits = {
+				erudite
+				pious
+				persistent
+				basic_political_operator
+			}
+		}
+
+		create_character = { # CHI, general, stationed someplace
+			is_general = yes
+			first_name = Yijing
+			last_name = Aisin_Gioro
+			culture = cu:manchu
+			interest_group = ig_armed_forces
+			ideology = ideology_royalist
+			birth_date = 1793.6.6 # exact date unknown
+			traits = {
+				basic_offensive_planner
+				expensive_tastes
+			}
+		}
 	}
 }
