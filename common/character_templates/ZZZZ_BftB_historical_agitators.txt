@@ -1,0 +1,125 @@
+﻿#使用BPM利益集团注意
+
+#兴中会人物
+
+#孙中山
+chi_sun_yat_sen_character_template = {
+    first_name = Sun
+	last_name = Yat_Sen
+	historical = yes
+	culture = cu:hakka
+	religion = rel:protestant
+	female = no
+    is_agitator = yes
+	interest_group = ig_radicals
+	ideology = ideology_kuomintang
+	birth_date = 1866.11.12
+	dna = dna_sun_yat_sen
+	traits = {
+		erudite
+        persistent
+        ambitious
+		wrathful
+		firebrand
+	}
+}
+
+#汪精卫
+chi_wang_jingwei_character_template = {
+    first_name = BftB_Wang
+	last_name = BftB_Jingwei
+	historical = yes
+	culture = cu:yue
+	religion = rel:protestant
+	female = no
+    is_agitator = yes
+	interest_group = ig_radicals
+	ideology = ideology_kuomintang
+	birth_date = 1883.5.4
+	traits = {
+        reckless
+		tactful
+		charismatic
+		experienced_political_operator
+	}
+}
+
+#胡汉民
+chi_hu_hanmin_character_template = {
+    first_name = Hu
+	last_name = BftB_Hanmin
+	historical = yes
+	culture = cu:yue
+	religion = rel:confucian
+	female = no
+    is_agitator = yes
+	interest_group = ig_radicals
+	ideology = ideology_kuomintang
+	birth_date = 1879.12.9
+	dna = dna_sun_yat_sen
+	traits = {
+        persistent
+		bigoted
+		basic_political_operator
+		demagogue
+	}
+}
+
+#黄兴
+chi_huang_xing_character_template = {
+    first_name = Huang
+	last_name = BftB_Xing
+	historical = yes
+	culture = cu:han
+	religion = rel:confucian
+	female = no
+    is_agitator = yes
+	interest_group = ig_radicals
+	ideology = ideology_radical
+	birth_date = 1874.10.25
+	traits = {
+		ambitious
+		reckless
+		popular_commander
+		stalwart_defender
+	}
+}
+
+#宋教仁
+chi_song_jiaoren_character_template = {
+    first_name = Song
+	last_name = BftB_Jiaoren
+	historical = yes
+	culture = cu:han
+	religion = rel:confucian
+	female = no
+    is_agitator = yes
+	interest_group = ig_radicals
+	ideology = ideology_liberal_leader
+	birth_date = 1882.4.5
+	traits = {
+		persistent
+		charismatic
+		basic_diplomat
+		expert_political_operator
+	}
+}
+
+#陈天华
+chi_chen_tianhua_character_template = {
+    first_name = Chen
+	last_name = BftB_Tianhua
+	historical = yes
+	culture = cu:han
+	religion = rel:confucian
+	female = no
+    is_agitator = yes
+	interest_group = ig_radicals
+	ideology = ideology_republican_leader
+	birth_date = 1875.1.1
+	traits = {
+	    literary
+		reckless
+		romantic
+	}
+}

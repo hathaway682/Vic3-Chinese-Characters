@@ -1,0 +1,559 @@
+﻿CHI_warlord_yuan_shikai = {
+	first_name = Shikai
+	last_name = Yuan
+	historical = yes
+	culture = cu:han
+	female = no
+	ideology = ideology_authoritarian
+	commander_rank = default
+	interest_group = ig_armed_forces
+	#birth_date = 1859.9.16
+	age = 51
+	ig_leader = yes
+	#is_ruler = yes
+	traits = {
+		ambitious
+		brave
+		imposing
+		plains_commander
+		basic_offensive_planner
+		basic_defensive_strategist
+	}
+}
+
+CHI_warlord_li_yuanhong = {
+	first_name = BftB_Yuanhong
+	last_name = BftB_Li
+	historical = yes
+	culture = cu:han
+	female = no
+	ideology = ideology_moderate
+	commander_rank = default
+	interest_group = ig_armed_forces
+	#birth_date = 1864.10.19
+	age = 46
+	ig_leader = yes
+	#is_ruler = yes
+	traits = {
+		reserved
+		basic_naval_commander
+		basic_political_operator
+	}
+}
+
+CHI_warlord_tan_yankai = {
+	first_name = BftB_Yankai
+	last_name = BftB_Tan
+	historical = yes
+	culture = cu:han
+	female = no
+	ideology = ideology_reformer
+	commander_rank = default
+	interest_group = ig_intelligentsia
+	#birth_date = 1880.1.25
+	age = 30
+	ig_leader = yes
+	#is_ruler = yes
+	traits = {
+		erudite
+		reserved
+		honorable
+		experienced_political_operator
+	}
+}
+
+CHI_warlord_zhang_fenghui = {
+	first_name = BftB_Fenghui
+	last_name = Zhang
+	historical = yes
+	culture = cu:han
+	female = no
+	ideology = ideology_republican_leader
+	commander_rank = default
+	interest_group = ig_armed_forces
+	#birth_date = 1881.2.5
+	age = 29
+	ig_leader = yes
+	#is_ruler = yes
+	traits = {
+		erudite
+		wrathful
+		meticulous 
+		stalwart_defender
+	}
+}
+
+CHI_warlord_yan_xishan = {
+	first_name = BftB_Yan
+	last_name = BftB_Xishan
+	historical = yes
+	culture = cu:han
+	female = no
+	ideology = ideology_protectionist
+	commander_rank = default
+	interest_group = ig_armed_forces
+	#birth_date = 1883.10.8
+	age = 27
+	ig_leader = yes
+	#is_ruler = yes
+	traits = {
+		cautious
+		tactful
+		innovative
+		basic_defensive_strategist
+		basic_artillery_commander
+		experienced_diplomat
+	}
+}
+
+CHI_warlord_cai_e = {
+	first_name = BftB_E
+	last_name = BftB_Cai
+	historical = yes
+	culture = cu:han
+	female = no
+	ideology = ideology_reformer
+	commander_rank = default
+	interest_group = ig_armed_forces
+	#birth_date = 1882.12.8
+	age = 26
+	ig_leader = yes
+	#is_ruler = yes
+	traits = {
+		cautious
+		brave
+		innovative
+		popular_commander
+		expert_offensive_planner
+		sickly
+	}
+}
+
+CHI_warlord_tang_jiyao = {
+	first_name = BftB_Jiyao
+	last_name = BftB_Tang
+	historical = yes
+	culture = cu:han
+	female = no
+	ideology = ideology_reformer
+	commander_rank = default
+	interest_group = ig_armed_forces
+	#birth_date = 1883.8.14
+	age = 27
+	ig_leader = yes
+	#is_ruler = yes
+	traits = {
+		ambitious
+		imperious
+		innovative
+		basic_offensive_planner
+		mountain_commander
+	}
+}
+
+CHI_warlord_li_liejun = {
+	first_name = BftB_Liejun
+	last_name = Li
+	historical = yes
+	culture = cu:han
+	female = no
+	ideology = ideology_radical
+	commander_rank = default
+	interest_group = ig_armed_forces
+	#birth_date = 1882.2.23
+	age = 26
+	ig_leader = yes
+	#is_ruler = yes
+	traits = {
+		direct
+		brave
+		basic_artillery_commander
+		experienced_defensive_strategist
+	}
+}
+
+CHI_warlord_jiang_zungui = {
+	first_name = BftB_Zungui
+	last_name = BftB_Jiang
+	historical = yes
+	culture = cu:han
+	female = no
+	ideology = ideology_radical
+	commander_rank = default
+	interest_group = ig_armed_forces
+	#birth_date = 1882.1.1 #日期不详
+	age = 26
+	ig_leader = yes
+	#is_ruler = yes
+	traits = {
+		persistent
+		basic_offensive_planner
+		resupply_commander
+	}
+}
+
+CHI_warlord_zhuang_yunkuan = {
+	first_name = BftB_Yunkuan
+	last_name = BftB_Zhuang
+	historical = yes
+	culture = cu:han
+	female = no
+	ideology = ideology_reformer
+	commander_rank = default
+	interest_group = ig_intelligentsia
+	#birth_date = 1866.1.1 #日期不详
+	age = 44
+	ig_leader = yes
+	#is_ruler = yes
+	traits = {
+		erudite
+		direct
+		innovative
+		basic_political_operator
+	}
+}
+
+CHI_warlord_lu_rongting = {
+	first_name = BftB_Rongting
+	last_name = BftB_Lu
+	historical = yes
+	culture = cu:zhuang
+	female = no
+	ideology = ideology_republican_leader
+	commander_rank = default
+	interest_group = ig_armed_forces
+	#birth_date = 1859.8.13
+	age = 51
+	ig_leader = yes
+	#is_ruler = yes
+	traits = {
+		direct
+		brave
+		forest_commander
+		bandit
+	}
+}
+
+CHI_warlord_bai_wenwei = {
+	first_name = BftB_Wenwei
+	last_name = BftB_Bai
+	historical = yes
+	culture = cu:han
+	female = no
+	ideology = ideology_radical
+	commander_rank = default
+	interest_group = ig_armed_forces
+	#birth_date = 1876.6.8
+	age = 34
+	ig_leader = yes
+	#is_ruler = yes
+	traits = {
+		reckless
+		innovative
+		surveyor #购买地图一事
+	}
+}
+
+CHI_warlord_sun_daoren = {
+	first_name = BftB_Daoren
+	last_name = Sun
+	historical = yes
+	culture = cu:han
+	female = no
+	ideology = ideology_radical
+	commander_rank = default
+	interest_group = ig_armed_forces
+	#birth_date = 1865.1.1 #日期不详
+	age = 45
+	ig_leader = yes
+	#is_ruler = yes
+	traits = {
+		cautious
+		tactful
+		basic_naval_commander
+	}
+}
+
+CHI_warlord_chen_jiongming = {
+	first_name = BftB_Jiongming
+	last_name = Chen
+	historical = yes
+	culture = cu:yue
+	female = no
+	ideology = ideology_radical
+	commander_rank = default
+	interest_group = ig_intelligentsia #文人出身
+	#birth_date = 1878.1.13
+	age = 32
+	ig_leader = yes
+	#is_ruler = yes
+	traits = {
+		persistent
+		meticulous
+		charismatic
+		experienced_political_operator
+	}
+}
+
+
+CHI_warlord_yin_changheng = {
+	first_name = BftB_Changheng
+	last_name = BftB_Yin
+	historical = yes
+	culture = cu:han
+	female = no
+	ideology = ideology_radical
+	commander_rank = default
+	interest_group = ig_armed_forces
+	#birth_date = 1884.7.11
+	age = 26
+	ig_leader = yes
+	#is_ruler = yes
+	traits = {
+		erudite
+		imposing
+		brave
+		popular_commander
+	}
+}
+
+CHI_warlord_zhao_weixi = {
+	first_name = BftB_Weixi
+	last_name = Zhao
+	historical = yes
+	culture = cu:han
+	female = no
+	ideology = ideology_traditionalist
+	commander_rank = default
+	interest_group = ig_landowners #前清官僚
+	#birth_date = 1859.1.1 #日期不详
+	age = 51
+	ig_leader = yes
+	#is_ruler = yes
+	traits = {
+		erudite
+		reserved
+	}
+}
+
+CHI_warlord_lian_xing = {
+	first_name = BftB_Xing
+	last_name = BftB_Lian
+	historical = yes
+	culture = cu:han
+	female = no
+	ideology = ideology_traditionalist
+	commander_rank = default
+	interest_group = ig_landowners #前清官僚
+	#生日不详
+	ig_leader = yes
+	#is_ruler = yes
+	traits = {
+		reserved
+	}
+}
+
+CHI_warlord_yang_zengxin = {
+	first_name = BftB_Zengxin
+	last_name = Yang
+	historical = yes
+	culture = cu:han
+	female = no
+	ideology = ideology_traditionalist
+	commander_rank = default
+	interest_group = ig_landowners #前清官僚
+	#birth_date = 1864.3.6
+	age = 46
+	ig_leader = yes
+	#is_ruler = yes
+	traits = {
+		tactful
+		innovative
+		expert_political_operator
+		experienced_diplomat
+	}
+}
+
+CHI_warlord_zhang_xiluan = {
+	first_name = BftB_Xiluan
+	last_name = Zhang
+	historical = yes
+	culture = cu:han
+	female = no
+	ideology = ideology_traditionalist
+	commander_rank = default
+	interest_group = ig_landowners #前清官僚
+	#birth_date = 1864.3.6
+	age = 46
+	ig_leader = yes
+	#is_ruler = yes
+	traits = {
+		erudite
+		brave
+		basic_defensive_strategist
+	}
+}
+
+CHI_warlord_li_yuanhong = {
+	first_name = BftB_Yuanhong
+	last_name = BftB_Li
+	historical = yes
+	culture = cu:han
+	female = no
+	ideology = ideology_moderate
+	commander_rank = default
+	interest_group = ig_armed_forces
+	#birth_date = 1864.10.19
+	age = 46
+	ig_leader = yes
+	#is_ruler = yes
+	traits = {
+		reserved
+		basic_naval_commander
+		basic_political_operator
+	}
+}
+
+CHI_warlord_duan_qirui= {
+	first_name = BftB_Qirui
+	last_name = BftB_Duan
+	historical = yes
+	culture = cu:han
+	female = no
+	ideology = ideology_republican_leader
+	commander_rank = default
+	interest_group = ig_armed_forces
+	#birth_date = 1865.3.6
+	age = 54
+	is_ruler = yes
+	traits = {
+		direct
+		wrathful
+		honorable
+		basic_artillery_commander
+	}
+}
+
+CHI_warlord_xu_shichang = {
+	first_name = BftB_Shichang
+	last_name = Xu
+	historical = yes
+	culture = cu:han
+	female = no
+	ideology = ideology_moderate
+	commander_rank = default
+	interest_group = ig_landowners
+	#birth_date = 1880.11.11
+	age = 29
+	ig_leader = yes
+	#is_ruler = yes
+	traits = {
+		reserved
+		tactful
+		innovative
+		experienced_political_operator
+		basic_diplomat
+	}
+}
+
+CHI_warlord_xu_shuzheng = {
+	first_name = BftB_Shuzheng
+	last_name = Xu
+	historical = yes
+	culture = cu:han
+	female = no
+	ideology = ideology_jingoist_leader
+	commander_rank = default
+	interest_group = ig_armed_forces
+	#birth_date = 1880.11.11
+	age = 29
+	ig_leader = yes
+	#is_ruler = yes
+	traits = {
+		arrogant
+		imperious
+		expert_political_operator
+		popular_commander
+	}
+}
+
+
+CHI_warlord_liang_qichao = {
+	first_name = BftB_Qichao
+	last_name = Liang
+	historical = yes
+	culture = cu:yue
+	female = no
+	ideology = ideology_reformer
+	interest_group = ig_intelligentsia
+	#birth_date = 1873.2.23
+	age = 46
+	ig_leader = yes
+	#is_ruler = yes
+	traits = {
+		direct
+		charismatic
+		experienced_political_operator
+		demagogue
+	}
+}
+
+CHI_warlord_cao_kun = {
+	first_name = BftB_Kun
+	last_name = BftB_Cao
+	historical = yes
+	culture = cu:yue
+	female = no
+	ideology = ideology_moderate
+	interest_group = ig_armed_forces
+	#birth_date = 1862.12.12
+	age = 57
+	ig_leader = yes
+	#is_ruler = yes
+	traits = {
+		reserved
+		charismatic
+		pillager
+	}
+}
+
+CHI_warlord_wu_peifu = {
+	first_name = BftB_Peifu
+	last_name = BftB_Wu
+	historical = yes
+	culture = cu:yue
+	female = no
+	ideology = ideology_jingoist_leader
+	interest_group = ig_armed_forces
+	#birth_date = 1874.4.22
+	age = 45
+	ig_leader = yes
+	#is_ruler = yes
+	traits = {
+		direct
+		ambitious
+		brave
+		celebrity_commander
+		expert_offensive_planner
+		experienced_defensive_strategist
+	}
+}
+
+CHI_warlord_cao_rui = {
+	first_name = BftB_Rui
+	last_name = BftB_Cao
+	historical = yes
+	culture = cu:yue
+	female = no
+	ideology = ideology_moderate
+	interest_group = ig_landowners
+	#birth_date = 1868.1.1
+	age = 51
+	ig_leader = yes
+	#is_ruler = yes
+	traits = {
+		tactful
+		basic_political_operator
+		expensive_tastes
+	}
+}
