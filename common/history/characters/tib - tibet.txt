@@ -1,0 +1,19 @@
+CHARACTERS = {
+	c:TIB ?= {
+		create_character = {
+			#平措汪杰 Phuntshogs Dbangrgyal
+			first_name = "Phun_tshogs"
+			last_name = "Dbang_rgyal"
+			historical = yes
+			birth_date = 1922.1.2
+			culture = cu:tibetan
+			ig_leader = yes
+			interest_group = ig_communists
+			ideology = ideology_communist
+			traits = {
+				reckless
+				basic_diplomat
+			}	
+		}
+	}
+}
