@@ -1,6 +1,21 @@
 CHARACTERS = {
 	c:TIB ?= {
 		create_character = {
+			#阿沛·阿旺晋美 Ngaphod NgagDbang'Jigsmed
+			first_name = "Ngaphod"
+			last_name = "NgagDbang_Jigsmed"
+			historical = yes
+			birth_date = 1922.1.2
+			culture = cu:tibetan
+			ig_leader = yes
+			interest_group = ig_theocrats
+			ideology = ideology_moderate
+			traits = {
+				reckless
+				basic_diplomat
+			}	
+		}
+		create_character = {
 			#平措汪杰 Phuntshogs Dbangrgyal
 			first_name = "Phun_tshogs"
 			last_name = "Dbang_rgyal"
